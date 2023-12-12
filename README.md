@@ -37,6 +37,55 @@ Percorre a lista de compras `credito.getCompras()` e exibe as descrições e val
 
 Esses conceitos são fundamentais na programação Java orientada a objetos e são aplicados no código para permitir a representação, comparação e manipulação de compras feitas com um cartão de crédito.
 
+# Fluxo
+```
+Olá! Seja bem-vindo(a) ao Purchase!
+
+A aplicação permite que você gerencie suas compras e consulte seu limite.
+
+Aliás, para prosseguirmos, pode nos informar o seu limite de cartão de crédito? :)
+100
+
+Informe-nos a descrição da compra efetuada: 
+Mouse
+
+Agora, precisamos que digite o valor dessa compra: 
+50
+
+Compra realizada com sucesso!
+
+Para sair, digite 0. Se deseja continuar, digite 1:
+1
+
+Informe-nos a descrição da compra efetuada: 
+Fone
+
+Agora, precisamos que digite o valor dessa compra: 
+40
+
+Compra realizada com sucesso!
+
+Para sair, digite 0. Se deseja continuar, digite 1:
+1
+
+Informe-nos a descrição da compra efetuada: 
+Teclado
+
+Agora, precisamos que digite o valor dessa compra: 
+70
+
+Sentimos muito... não podemos prosseguir, pois o seu saldo é insuficiente
+
+***********************
+COMPRAS EFETUADAS
+
+Fone - 40.0
+Mouse - 50.0
+***********************
+
+Saldo do cartão de crédito: 10.0
+```
+
 # Referências
 
 https://www.alura.com.br/apostila-java-orientacao-objetos/collections-framework?_gl=1*x823ad*_ga*MjAxNTIyMDMyNi4xNjgxMzI4MzY3*_ga_1EPWSW3PCS*MTcwMjQwNzUwNy4xMi4xLjE3MDI0MDc1ODAuMC4wLjA.*_fplc*YjBpdEtSNVZLb0l2JTJGUDU1cERnJTJCZ1duVlJwZlhzZ0ZpZkNIa2RNWGtLck5MUHIlMkY1dmh6MHU0STZCVVlLSElXVFQ2dUhHcU1JeXN0dWcwczhQQTd1aW5tM0RtTEQxWkhkc3NvMFhqaURmQVdDdzV3UklmRkp1eWdPbzVYbEdRJTNEJTNE
